@@ -1,3 +1,12 @@
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+source_suffix = ['.rst', '.md']
+
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
