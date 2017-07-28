@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/anim/abc_slide_in_top.xml"
+    }
+]
