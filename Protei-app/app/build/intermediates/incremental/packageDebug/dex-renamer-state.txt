@@ -1,0 +1,7 @@
+#Fri Jul 28 15:07:10 GMT 2017
+base.0=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa72c0580205c966996daef33654e6090deb6c5b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ca400b8e9539462c8de48298c9c90555c6e07a58/classes.dex
+base.1=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ca400b8e9539462c8de48298c9c90555c6e07a58
+file.0=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa72c0580205c966996daef33654e6090deb6c5b/classes.dex

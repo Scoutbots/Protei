@@ -1,0 +1,19 @@
+#Thu Jul 27 19:29:57 GMT 2017
+renamed.5=classes4.dex
+renamed.4=classes2.dex
+renamed.3=classes5.dex
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes6.dex
+base.5=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b76bf307444cb13d6f44e946d9ca3212f6de4d8f
+base.4=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.3.2_d01d81fb3bee50e7f10c6dfd1d217a1bcf68b809
+base.3=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_5eb60159e6072bba8ce61ab9f800816ec5bc0fd9
+base.2=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.client.mqttv3-1.0.0_52fb80d1d9fef10670509e0326038703e2fac5a3
+base.1=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_0d9adbf5cd686c5516ba5dd3f57b31677a04a599
+base.0=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18955d5a11ea1ae8315df153ca33e0c9e4faf913
+file.5=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b76bf307444cb13d6f44e946d9ca3212f6de4d8f/classes.dex
+file.4=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.3.2_d01d81fb3bee50e7f10c6dfd1d217a1bcf68b809/classes.dex
+file.3=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_5eb60159e6072bba8ce61ab9f800816ec5bc0fd9/classes.dex
+file.2=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.client.mqttv3-1.0.0_52fb80d1d9fef10670509e0326038703e2fac5a3/classes.dex
+file.1=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_0d9adbf5cd686c5516ba5dd3f57b31677a04a599/classes.dex
+file.0=/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18955d5a11ea1ae8315df153ca33e0c9e4faf913/classes.dex

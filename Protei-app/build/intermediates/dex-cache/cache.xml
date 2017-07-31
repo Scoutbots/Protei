@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa72c0580205c966996daef33654e6090deb6c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohak/.android/build-cache/99c0d224a4e03f636c222e26e5ca5adf88805a1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/pre-dexed/debug/classes_b76bf307444cb13d6f44e946d9ca3212f6de4d8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.3.2_d01d81fb3bee50e7f10c6dfd1d217a1bcf68b809/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/libs/org.eclipse.paho.client.mqttv3-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f01ff721e23815a05e0f07784b6c58fb12a7b76">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.client.mqttv3-1.0.0_52fb80d1d9fef10670509e0326038703e2fac5a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6a52335e02e7d027ef630115e056ee21159a802">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ca400b8e9539462c8de48298c9c90555c6e07a58/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohak/.android/build-cache/99c0d224a4e03f636c222e26e5ca5adf88805a1d/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_0d9adbf5cd686c5516ba5dd3f57b31677a04a599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/pre-dexed/debug/classes_18955d5a11ea1ae8315df153ca33e0c9e4faf913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohak/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_5eb60159e6072bba8ce61ab9f800816ec5bc0fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/libs/org.eclipse.paho.client.mqttv3-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f01ff721e23815a05e0f07784b6c58fb12a7b76">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.0_52fb80d1d9fef10670509e0326038703e2fac5a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15">
+        <dex dex="/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2_d01d81fb3bee50e7f10c6dfd1d217a1bcf68b809.jar" />
+    </item>
+
+</items>

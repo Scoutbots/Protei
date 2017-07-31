@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/rohak/Documents/Protei_Brain/android-apps/MQTTSerialTethering/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/rohak/.android/build-cache/d6c290a27704092351eb4535f643baeb2370ac23/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
