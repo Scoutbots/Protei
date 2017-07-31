@@ -5,7 +5,7 @@ port = 1883 # Default port for unencrypted MQTT
 #hostname = "iot.eclipse.org" # Sandbox broker
 #hostname = "broker.hivemq.com"
 
-hostname="52.39.209.110"
+hostname="HOST"
 
 topic_far="mar"
 

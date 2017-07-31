@@ -2,11 +2,15 @@
 #include <MqttSerial.h>
 #include <ArduinoJson.h>
 
-#define COUNT 15
+#define COUNT 100
+#define COUNT2 100
 
 SoftwareSerial bluetoothSerial(10,11);
 MqttSerial mqttSerial ("arduino_lib",bluetoothSerial);
 void callback(String, String) ;
+
+unsigned long time1;
+unsigned long time2;
 
 void setup() {
   Serial.begin(9600);
@@ -37,25 +41,31 @@ void right(){
   
   bool prev=0;
   int count=0;
+  int ref=analogRead(A0);
+
+  time1=millis();
+   time2=millis();
 
 
+while (time2-time1<COUNT){ //15=1 round
 
-while (count<COUNT){ //15=1 round
-
-    analogWrite(7, 0);
-  analogWrite(6, 255);
+    
   int a= analogRead(A0);
-  //Serial.println(a);
   
-  if(a>=512 && prev==0){
+  if(a==ref && prev==0){
     prev=1;
+  analogWrite(7, 0);
+  analogWrite(6, 255);
     }
 
-  else if(a<512 && prev==1){
+  else if(a!=ref && prev==1){
     prev=0;
     count++;
-    //Serial.println(count + ": right");
+    analogWrite(7, 0);
+  analogWrite(6, 255);
     }
+
+    time2=millis();
 }
 
 analogWrite(7, 0);
@@ -66,10 +76,12 @@ void left(){
 
   bool prev=0;
   int count=0;
-
   
 
-while (count<COUNT){ //15 = 1 round
+  time1=millis();
+   time2=millis();
+
+while (time2-time1<COUNT){ //15 = 1 round
 
   analogWrite(6, 0);
   analogWrite(7, 255);
@@ -84,6 +96,8 @@ while (count<COUNT){ //15 = 1 round
     count++;
     //Serial.println(count + ": left");
     }
+
+    time2=millis();
 }
 
 analogWrite(7, 0);
@@ -94,18 +108,20 @@ analogWrite(6, 0);
 
 void up(){
   
-  bool prev=0;
+  int prev=0;
   int count=0;
+  int ref=analogRead(A1);
 
-  
+  time1=millis();
+   time2=millis();
 
-while (count<COUNT){ //15=1 round
+while (time2-time1<COUNT2){ //15=1 round
 
+   analogWrite(8, 255);
   analogWrite(9, 0);
-  analogWrite(8, 255);
-  int a= analogRead(A1);
-  //Serial.println(a);
   
+  int a= analogRead(A1);
+
   if(a>=512 && prev==0){
     prev=1;
     }
@@ -113,8 +129,10 @@ while (count<COUNT){ //15=1 round
   else if(a<512 && prev==1){
     prev=0;
     count++;
-   // Serial.println(count + ": up");
     }
+ 
+
+    time2=millis();
 }
 
 analogWrite(9, 0);
@@ -126,9 +144,10 @@ void down(){
   bool prev=0;
   int count=0;
 
-  
+  time1=millis();
+   time2=millis();
 
-while (count<COUNT){ //15 = 1 round
+while (time2-time1<COUNT2){ //15 = 1 round
 
 analogWrite(8, 0);
   analogWrite(9, 255);
@@ -144,7 +163,7 @@ analogWrite(8, 0);
     count++;
    // Serial.println(count + ": down");
     }
-    //Serial.println("done");
+     time2=millis();
 }
 
 analogWrite(9, 0);
