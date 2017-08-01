@@ -1,0 +1,30 @@
+== On the phone ==
+Start the phone. It must be connected data through 3G
+Start the bluetooth 
+Start the app “Protei.apk”
+_Start Air Droid
+_Start google map app_ 
+In Google map, need to share your position. This will record a cml file, a GPS track of your journey. 
+_ Start science journal, and start logging “x”. This will record the intensity of the waves.
+
+== On the boat ==
+Plug in the battery
+Pair the phone with the bluetooth with the arduino bluetooth module (press the button on the app)
+Press the reset button on the arduino
+
+== on your laptop ==
+Connect to wifi. We use our wifi dongle / mobile phone hotspoting 
+Start the python app. “keys.py”
+Send the commands with the keys
+“<“ is turning left
+“>” is turning right
+“up” is release
+“down” pull the sheet (but the up and down are reversible once you pass the middle point)
+Check if all the keys are responding
+
+Look around you. 
+Check if no boat coming your way.
+Check if there no police coming your way.
+Take a selfie. 
+Go!!!
+Sail away my pretty!
