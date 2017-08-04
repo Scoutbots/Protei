@@ -7,5 +7,6 @@ Video of making of Protei Rohak: https://www.youtube.com/watch?v=PAQ16yVeyIc
 
 ## Testing
 
-[<img src="http://img.youtube.com/vi/5ecuIcRUJYU/0.jpg" width="500px">](https://www.youtube.com/watch?v=5ecuIcRUJYU)
+[https://github.com/Scoutbots/Protei/blob/master/G_20170804_1303358.gif?raw=true](https://www.youtube.com/watch?v=5ecuIcRUJYU)
 
+<img src="http://img.youtube.com/vi/5ecuIcRUJYU/0.jpg" width="500px">
