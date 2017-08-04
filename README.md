@@ -2,7 +2,10 @@
 Open Hardware Oil Spill Cleaning Sailing Robot
 
 As seen on TED, Protei is a modular, shape shifting boat conceived by Cesar Harada for cleaning up oil spills in the ocean. 
-TED talk: https://www.youtube.com/watch?v=iNDXvJjSniI
+## [TED talk](https://www.youtube.com/watch?v=iNDXvJjSniI)
+
+[<img src="http://img.youtube.com/vi/iNDXvJjSniI/0.jpg" width="500px">](https://www.youtube.com/watch?v=iNDXvJjSniI)
+
 
 # Protei v12.0 - Protei Rohak 
 
