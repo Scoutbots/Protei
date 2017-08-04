@@ -46,8 +46,8 @@ The keys.py programme is to send commands to Protei via MQTT channels to control
 <img src="https://c1.staticflickr.com/5/4412/35528578294_5a7509abd1_b.jpg" width="200px">   <img src="https://c1.staticflickr.com/5/4354/36364325165_da5da45235_b.jpg" width="200px">   <img src="https://c1.staticflickr.com/5/4404/36195758412_10b2299927_b.jpg" width="200px">
 
 ### [Flickr Gallery](https://www.flickr.com/photos/77868571@N03/galleries/72157684487211454/)
-
-<img src="https://c1.staticflickr.com/5/4330/35485191904_e4c592886a_b.jpg" width="200px"><img src="https://c1.staticflickr.com/5/4324/35512352003_b9d0cb85c8_b.jpg" width="300px">
+  
+<img src="https://c1.staticflickr.com/5/4330/35485191904_e4c592886a_b.jpg" width="200px">  <img src="https://c1.staticflickr.com/5/4324/35512352003_b9d0cb85c8_b.jpg" width="300px">
 
 
 
