@@ -8,6 +8,13 @@ TED talk: https://www.youtube.com/watch?v=iNDXvJjSniI
 
 This is the first Protei which has an Android phone on board - giving it processing power and access to the phone's sensors. A laptop sends commands to the Phone via a server and the phone is connected to an Arduino Uno, which controls the motors, via Bluetooth.
 
+## [Android](https://github.com/Scoutbots/Protei/tree/master/Protei-app)
+
+<img src="https://c1.staticflickr.com/5/4422/35557019743_1877e6619c_b.jpg" width="500px"><img src="https://c1.staticflickr.com/5/4351/35968624870_1612960687_b.jpg" width="500px">
+
+## [Arduino](https://github.com/Scoutbots/Protei/tree/master/Protei-arduino)
+
+<img src="https://c1.staticflickr.com/5/4387/36364310955_81f06dce3b_b.jpg" width="500px">
 
 ## [Testing](https://www.youtube.com/watch?v=5ecuIcRUJYU)
 
@@ -22,7 +29,7 @@ This is the first Protei which has an Android phone on board - giving it process
 
 ### [Flickr Album](https://www.flickr.com/photos/77868571@N03/albums/72157684488165694)
 
-<img src="https://c1.staticflickr.com/5/4412/35528578294_5a7509abd1_b.jpg" width="200px"><img src="https://c1.staticflickr.com/5/4354/36364325165_da5da45235_b.jpg" width="200px"><img src="https://c1.staticflickr.com/5/4387/36364310955_81f06dce3b_b.jpg" width="300px">
+<img src="https://c1.staticflickr.com/5/4412/35528578294_5a7509abd1_b.jpg" width="200px"><img src="https://c1.staticflickr.com/5/4354/36364325165_da5da45235_b.jpg" width="200px"><img src="https://c1.staticflickr.com/5/4404/36195758412_10b2299927_b.jpg" width="200px">
 
 ### [Flickr Gallery](https://www.flickr.com/photos/77868571@N03/galleries/72157684487211454/)
 
