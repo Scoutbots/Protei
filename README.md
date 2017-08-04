@@ -15,7 +15,7 @@ This is the first Protei which has an Android phone on board - giving it process
 
 The Protei app facilitates communication between the server and Arduino. The app connects to the Arduino via Bluetooth and recieves/sends commands to the server via MQTT. In addition to this, it also computes the position of the Sail and the Rudder, displays the latest message exchange and the orientation of the boat (Gyroscope).
 
-* [References](https://github.com/Scoutbots/Protei#References)
+* [References](https://github.com/Scoutbots/Protei#references)
 
 ## [Arduino](https://github.com/Scoutbots/Protei/tree/master/Protei-arduino)
 
