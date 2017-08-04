@@ -1,6 +1,15 @@
 # Protei
 Open Hardware Oil Spill Cleaning Sailing Robot
 
+Images: https://www.flickr.com/photos/worldworldworld/35507725733/in/dateposted/
+Video of making of Protei Rohak: https://www.youtube.com/watch?v=PAQ16yVeyIc
+
+
+# Testing
+
+[<img src="http://img.youtube.com/vi/5ecuIcRUJYU/0.jpg" width="500px">](https://www.youtube.com/watch?v=5ecuIcRUJYU)
+
+
 As seen on TED, Protei is a modular, shape shifting boat conceived by Cesar Harada for cleaning up oil spills in the ocean. 
 TED talk: https://www.youtube.com/watch?v=iNDXvJjSniI
 
@@ -47,3 +56,4 @@ The Protei app facilitates communication between the server and Arduino. The app
 2. [Android Motion Sensors](https://developer.android.com/guide/topics/sensors/sensors_motion.html)
 3. [MQTT Serial Tethering](https://github.com/ahmadsayed/MQTTSerialTethering)
 4. [Android GPS](https://developer.android.com/guide/topics/location/strategies.html#Updates)
+
