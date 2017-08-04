@@ -14,7 +14,7 @@ This is the first Protei which has an Android phone on board - giving it process
 
 ## [Arduino](https://github.com/Scoutbots/Protei/tree/master/Protei-arduino)
 
-<img src="https://c1.staticflickr.com/5/4387/36364310955_81f06dce3b_b.jpg" width="500px"><img src="https://github.com/Scoutbots/Protei/blob/master/G_20170804_1549443.gif" width="500px">
+<img src="https://github.com/Scoutbots/Protei/blob/master/G_20170804_1549443.gif" width="300px"><img src="https://c1.staticflickr.com/5/4387/36364310955_81f06dce3b_b.jpg" width="500px">
 
 ## [Testing](https://www.youtube.com/watch?v=5ecuIcRUJYU)
 
