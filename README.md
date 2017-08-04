@@ -12,6 +12,10 @@ This is the first Protei which has an Android phone on board - giving it process
 
 <img src="https://c1.staticflickr.com/5/4422/35557019743_1877e6619c_b.jpg" width="300px"><img src="https://c1.staticflickr.com/5/4409/36228766821_feac418a6c_b.jpg" width="300px">
 
+The Protei app acts as a driver for communication between the server and Arduino. The app connects to the Arduino via Bluetooth and recieves/sends commands to the server via MQTT. In addition to this, it also computes the position of the Sail and the Rudder, displays the latest message exchange and the orientation of the boat [Gyroscope].
+
+### [References](https://github.com/Scoutbots/Protei#r1)
+
 ## [Arduino](https://github.com/Scoutbots/Protei/tree/master/Protei-arduino)
 
 <img src="https://github.com/Scoutbots/Protei/blob/master/G_20170804_1549443.gif" width="300px"><img src="https://c1.staticflickr.com/5/4387/36364310955_81f06dce3b_b.jpg" width="500px">
@@ -37,4 +41,9 @@ This is the first Protei which has an Android phone on board - giving it process
 
 
 
+### r1
 
+1. [Android Bluetooth](https://developer.android.com/guide/topics/connectivity/bluetooth.html)
+2. [Android Motion Sensors](https://developer.android.com/guide/topics/sensors/sensors_motion.html)
+3. [MQTT Serial Tethering](https://github.com/ahmadsayed/MQTTSerialTethering)
+4. [Android GPS](https://developer.android.com/guide/topics/location/strategies.html#Updates)
