@@ -22,7 +22,7 @@ The Protei App facilitates communication between the server and Arduino. The App
 
 ## [Arduino](https://github.com/Scoutbots/Protei/tree/master/Protei-arduino)
 
-<img src="https://github.com/Scoutbots/Protei/blob/master/G_20170804_1549443.gif" width="300px"><img src="https://c1.staticflickr.com/5/4387/36364310955_81f06dce3b_b.jpg" width="500px">
+<img src="https://github.com/Scoutbots/Protei/blob/master/G_20170804_1549443.gif" width="300px">    <img src="https://c1.staticflickr.com/5/4387/36364310955_81f06dce3b_b.jpg" width="500px">
 
 The Arduino subscribes to MQTT feed on the server through the Protei App. It controls two high torque motors for the sail and rudder of Protei using a motor controller and 7.4V battery, all of which were reused from Seeed Studio's Hercules kit (see [references](https://github.com/Scoutbots/Protei#references)).
 
@@ -43,7 +43,7 @@ The keys.py programme is to send commands to Protei via MQTT channels to control
 
 ### [Flickr Album](https://www.flickr.com/photos/77868571@N03/albums/72157684488165694)
 
-<img src="https://c1.staticflickr.com/5/4412/35528578294_5a7509abd1_b.jpg" width="200px"><img src="https://c1.staticflickr.com/5/4354/36364325165_da5da45235_b.jpg" width="200px"><img src="https://c1.staticflickr.com/5/4404/36195758412_10b2299927_b.jpg" width="200px">
+<img src="https://c1.staticflickr.com/5/4412/35528578294_5a7509abd1_b.jpg" width="200px">   <img src="https://c1.staticflickr.com/5/4354/36364325165_da5da45235_b.jpg" width="200px">   <img src="https://c1.staticflickr.com/5/4404/36195758412_10b2299927_b.jpg" width="200px">
 
 ### [Flickr Gallery](https://www.flickr.com/photos/77868571@N03/galleries/72157684487211454/)
 
